@@ -105,3 +105,10 @@ if __name__ == '__main__':
 # grrm    git remote remove
 # grset   git remote set-url
 
+# gc      git commit -v
+# gc!     git commit -v --amend
+# gcn!    git commit -v --no-edit --amend
+# gca     git commit -v -a
+
+
+
