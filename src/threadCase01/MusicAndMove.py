@@ -109,6 +109,13 @@ if __name__ == '__main__':
 # gc!     git commit -v --amend
 # gcn!    git commit -v --no-edit --amend
 # gca     git commit -v -a
+# gca!    git commit -v -a --amend
+# gcan!   git commit -v -a --no-edit --amend
+# gcans!  git commit -v -a -s --no-edit --amend
+# gcam    git commit -a -m
+# gcsm    git commit -s -m
+# gcmsg   git commit -m
+# gcs     git commit -S
 
 
 
