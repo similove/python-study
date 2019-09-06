@@ -1,6 +1,5 @@
 import socket
 
-
 def sendMsg(udpSocket):
     '''
     send message function
